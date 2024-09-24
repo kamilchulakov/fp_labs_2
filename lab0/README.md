@@ -10,6 +10,8 @@
 - Описание валидаций
 - Описание платежных состояний и переходов
 
+Их можно решать в DSL!
+
 ## Почему Clojure?
 - Можно сделать упор на DSL и макросы
 - Много знакомых слов из Elixir: рекорды, акторы, etc
@@ -23,6 +25,7 @@
 
 ## Литература
 - [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) - как будто не хватает [некоторых примеров](https://clojure-book.gitlab.io/book.html#_threading_macros)
-- [Clojure docs](https://clojuredocs.org/clojure.core/as-%3E)
+- [Clojure Language: Macros](https://clojure-doc.org/articles/language/macros/)
+- [Growing a DSL with Clojure](https://clojure-doc.org/articles/cookbooks/growing_a_dsl_with_clojure/)
 - [Practical guide to Clojure Web Services and APIs](https://practical.li/clojure-web-services/)
 - [Rich Hickey's greatest hits](https://changelog.com/posts/rich-hickeys-greatest-hits/)
